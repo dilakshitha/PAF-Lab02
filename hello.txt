@@ -1,1 +1,4 @@
 Hello
+Looking at this diagram after reading the above definitions it may seem obvious how a Simplified Git Flow works. However, let’s lay out the steps to make sure you’re perfectly clear on the Simplified Git Flow.
+
+Let’s take a team working on a Project that has 2 members, John and Sarah. Git is the version control system being used, and the Project is comprised of a single Repository with a Branch named “master” that is used to maintain the source code files for the Production deployment of t
